@@ -1,0 +1,7 @@
+twice a week meeting
+- not including working sessions
+Workflow/configurations/environments from build environments is correlation portion of project
+Alex/Sudarshan - technical questions
+Josh - project questions
+Slack - Do we join theirs or do they join ours?
+
